@@ -15,7 +15,7 @@ for (const woman in WOMEN) {
 
     item_wrapper.classList.add("image-with-hover-overlay");
     outer_text_wrapper.classList.add("image-hover-overlay", "background-primary");
-    text_wrapper.classList.add("image-hover-overlay-content", "text-center", "padding-2x");
+    text_wrapper.classList.add("image-hover-overlay-content", "padding-2x");
     name.classList.add("text-white", "text-size-20", "margin-bottom-10");
     bio.classList.add("text-white", "text-size-14", "margin-bottom-20");
     image.classList.add("full-img");

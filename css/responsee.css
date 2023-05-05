@@ -43,7 +43,6 @@ p,li,dl,blockquote,table,kbd {
   line-height: 1.6;
 }
 b,strong {font-weight:700;}
-.text-center {text-align:center!important;}
 .text-right {text-align:right!important;}
 img {
   border:0;
