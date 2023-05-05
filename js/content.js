@@ -52,12 +52,12 @@ const WOMEN = {
     "Grace Hopper": {
         wikipedia: "https://en.wikipedia.org/wiki/Grace_Hopper",
         img_path: "./img/hopper.jpeg",
-        bio: " "
+        bio: "American computer scientist, developer of the first linker, and first to conceptualize and develop high-level programming languages."
     },
     "Ada Lovelace": {
         wikipedia: "https://en.wikipedia.org/wiki/Ada_Lovelace",
         img_path: "./img/lovelace.jpeg",
-        bio: " "
+        bio: "British mathematician and first computer programmer. She published the first algorithm for a computer."
     },
     "Margaret Knight": {
         wikipedia: "https://en.wikipedia.org/wiki/Margaret_E._Knight",
@@ -82,17 +82,17 @@ const WOMEN = {
     "Sunita Williams": {
         wikipedia: "https://en.wikipedia.org/wiki/Sunita_Williams",
         img_path: "./img/sunita-williams.jpeg",
-        bio: ""
+        bio: "American astronaut who once held the record for most spacewalks by a woman and most spacewalk time for a woman. She is from Needham, MA."
     },
     "Margaret Hamilton": {
         wikipedia: "https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)",
         img_path: "./img/margaret-hamilton.jpeg",
-        bio: ""
+        bio: "American programmer who led the team that wrote the Apollo onboard flight software."
     },
     "Rachel Carson": {
         wikipedia: "https://en.wikipedia.org/wiki/Rachel_Carson",
         img_path: "./img/carson.jpeg",
-        bio: ""
+        bio: "American biologist and conservationist whose book 'Silent Spring' was a key influence in the environmental movement."
     },
     "Elizabeth Blackwell": {
         wikipedia: "https://en.wikipedia.org/wiki/Elizabeth_Blackwell",
