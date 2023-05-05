@@ -98,6 +98,11 @@ const WOMEN = {
         wikipedia: "https://en.wikipedia.org/wiki/Elizabeth_Blackwell",
         img_path: "./img/blackwell.jpeg",
         bio: "British-American doctor who was the first woman to become a doctor in the US, and first woman on the UK's Medical Register."
+    },
+    "Alice Ball": {
+        wikipedia: "https://en.wikipedia.org/wiki/Alice_Ball",
+        img_path: "./img/Alice_Augusta_Ball.jpg",
+        bio: "American chemist who developed the most effective treatment for leprosy. She was the first woman and African American to get a degree from the University of Hawai'i, and the first woman and African American to become a professor there."
     }
 
 
