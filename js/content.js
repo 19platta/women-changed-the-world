@@ -103,6 +103,21 @@ const WOMEN = {
         wikipedia: "https://en.wikipedia.org/wiki/Alice_Ball",
         img_path: "./img/Alice_Augusta_Ball.jpg",
         bio: "American chemist who developed the most effective treatment for leprosy. She was the first woman and African American to get a degree from the University of Hawai'i, and the first woman and African American to become a professor there."
+    },
+    "Marguerite Vogt": {
+        wikipedia: "https://en.wikipedia.org/wiki/Marguerite_Vogt",
+        img_path: "./img/vogt.jpg",
+        bio: "German biologist who was the first to grow the polio virus in vitro."
+    },
+    "Mildred Dresselhaus": {
+        wikipedia: "https://en.wikipedia.org/wiki/Mildred_Dresselhaus",
+        img_path: "./img/dresselhaus.jpg",
+        bio: "American physicist known as the 'Carbon Queen', who accomplished foundational work in material science and nanostructures, won numerous awards, and fought for women's inclusion in science and engineering."
+    },
+    "Lise Meitner": {
+        wikipedia: "https://en.wikipedia.org/wiki/Lise_Meitner",
+        img_path: "./img/meitner.jpeg",
+        bio: "Austrian-Swedish physicist who played a key role in discovering nuclear fission."
     }
 
 
